@@ -1,0 +1,2082 @@
+fileFormatVersion: 2
+guid: 89d420b6d3afb49428c47c77d6588e83
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maison set 2_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2240
+        width: 69
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3390434966d8a48b7e0fcdc81a0e4b
+      internalID: 394436197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2240
+        width: 129
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fcc258e03f32746bbe60135b7f9dd2
+      internalID: 840870645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2240
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93d6b879e0d857498324dbf3b8d1ee2
+      internalID: 382962252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2240
+        width: 130
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a815a102f8e28fe428226cbbc3e47a7b
+      internalID: -382176877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_4
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 2240
+        width: 69
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb143646020ef834cb84d2dc3a69dcbd
+      internalID: 239533219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_5
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 2240
+        width: 130
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13415c849b483ac4f8dc0f33f41de184
+      internalID: 913942384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2240
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24826bbe833a47b4d9c2008dc6d0c0ed
+      internalID: 1802852055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_7
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 2240
+        width: 130
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ceecba46d5e1e45bec32aa6cf07e76
+      internalID: 688042949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2065
+        width: 69
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb87a25f481b60e45af0d0f1d0cc9136
+      internalID: -1679756961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2065
+        width: 129
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf31654fbe5c9d4da2c0f6e026552c0
+      internalID: 1073233065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2065
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b19687e4a9adb646aebdf7bbb2013ac
+      internalID: 1476793596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2065
+        width: 130
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbdd08020b2c2f458252d428df0afec
+      internalID: -2025480361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_12
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 2065
+        width: 69
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c13067418daad448be5daaec50326b7
+      internalID: 257234659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_13
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 2065
+        width: 130
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46d807fefb9513498d3a8bff4dfc225
+      internalID: 1214302581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_14
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2065
+        width: 100
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09b26b9f55256740960b351141d8cb3
+      internalID: 2061394388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_15
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 2065
+        width: 130
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ba866683bc1f44db22581b5c6cdbcd
+      internalID: 1537272170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1872
+        width: 69
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a61f08b568a9047bcde38b501b9ebd
+      internalID: -1271018766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1872
+        width: 129
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7aa6bcb90ef5846a9c4790c75a1c6d
+      internalID: 1341341160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1872
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01111d6f2fe2e554ba85a9ef921a77d3
+      internalID: -1109489548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_19
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1872
+        width: 130
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b64aaa51e68f844886f590a16f1d9f5
+      internalID: 1544236917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_20
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1872
+        width: 69
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198946f764961c54aa8e6fbcef1dbd91
+      internalID: 709274895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_21
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1872
+        width: 130
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44813072ad2e187489f612f5bf30c6fc
+      internalID: -1974676467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_22
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1872
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e8da294b3cacd4aa1ba1b788d07492
+      internalID: 1698899114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_23
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1872
+        width: 130
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b348e0f5be2388b48b2b7e7cc4d957ff
+      internalID: -1899748288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1680
+        width: 69
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f7694eefd38bc4daa24d61434eeb80
+      internalID: -1619039052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1680
+        width: 129
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcd41bfd0cfe934c91dc94056511897
+      internalID: 1134532765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1680
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deff3bbd3e4c56a4b8113530cf673f16
+      internalID: 258860713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_27
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1680
+        width: 130
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e632d87915d2e4a9fe2e15aeaae795
+      internalID: 431339449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_28
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1680
+        width: 69
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4f094221b92304194f74e677d9280a
+      internalID: -1599137016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_29
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1680
+        width: 130
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7803df0d58df3c489fe62ef9911ff7e
+      internalID: 1986855704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_30
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1680
+        width: 100
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024c749a73cef5d4d8a25351e6937909
+      internalID: 1603898112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_31
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1680
+        width: 130
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad9637496454004ab3274f65e15255f
+      internalID: 1758922907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1488
+        width: 69
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2be41f7eea31149a12ab940d38ae6a
+      internalID: -2071389972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1488
+        width: 129
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c0d7f1c3efa8b408d444c4c87e49ef
+      internalID: -293336068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1488
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b022386d89063824ebf3d40098ce41e7
+      internalID: -743818856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_35
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1488
+        width: 130
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90dbb7b743430b4d82514ba3eac72bb
+      internalID: 389395161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_36
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1488
+        width: 69
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0296cd7a6cbdd4e970a8422836d696
+      internalID: 1699530086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_37
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1488
+        width: 130
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3526a66e20c86864a9c3e86be5a12f81
+      internalID: -645267727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_38
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1488
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f424d28594cbd0a44b56816685ee96c8
+      internalID: 1371471654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_39
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1488
+        width: 130
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563cbd79720b62949a96c98f586dedab
+      internalID: 380580926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1297
+        width: 69
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d151b2a2a8781244e911acbc0634327e
+      internalID: -727143467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1297
+        width: 129
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757b65ff7fa1f7341bae0fd2248f804c
+      internalID: -647405829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1297
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1454362034a3e48ba095c725ad5d4d
+      internalID: -1342069041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_43
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1297
+        width: 130
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8e340157d2fca4cb0facf34accc687
+      internalID: 669160346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_44
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1297
+        width: 69
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2238492b65f2284482b63ab15725e7b
+      internalID: -931769300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_45
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1297
+        width: 130
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da589729fbcf4c44da879bdfee774eff
+      internalID: 567842521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_46
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1297
+        width: 100
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794c8e8a8c5e33040b55438ccad0da76
+      internalID: 1346834535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_47
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1297
+        width: 130
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1a31dadf541cc4395d87665923b8d9
+      internalID: -781847571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1104
+        width: 69
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81bc9c41787d3c4986639ccfb928e11
+      internalID: 839918143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1104
+        width: 129
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925b6d21d34cc0b4eb29ca9e631abc92
+      internalID: 443999368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1104
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67da8a8de9fa81b46a0c809f8cc0acaa
+      internalID: 1596034118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_51
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1104
+        width: 130
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5652b69dac10d3f47a9c8e42dddc19e2
+      internalID: 1910246005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_52
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1104
+        width: 69
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2987ba305f10046b244aab0b8cdec7
+      internalID: -692735189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_53
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1104
+        width: 130
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a93ce58dbb9da428fc8eef649251aa
+      internalID: -1604684425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_54
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1104
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2139e14bab61864699338cc29d37962
+      internalID: 1144980974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_55
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1104
+        width: 130
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3220befc98e8f924bbe1d160f320e96e
+      internalID: -637886762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_56
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 912
+        width: 69
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ea8107ee796e0448d97c317f119c95
+      internalID: -520620649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_57
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 912
+        width: 129
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badc192423747d64797cdbc905d8a1d1
+      internalID: 331837894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_58
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 912
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f508ea09419490d47b9a10bac2f932a5
+      internalID: -1018724208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_59
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 912
+        width: 130
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c893580316e21b41b747ba663b93c59
+      internalID: -1115718425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_60
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 912
+        width: 69
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b42350f46a0e042b3891ffa38c4050
+      internalID: -1294334641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_61
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 912
+        width: 130
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f119d74f78318034fb7774afca3fe32d
+      internalID: -1800457005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_62
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 912
+        width: 100
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708aa3d956e0587429802fdd35916807
+      internalID: -1895384073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_63
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 912
+        width: 130
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023853158b77774409ef98f44300d426
+      internalID: -698973508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_64
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 720
+        width: 69
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83083b7e1c1fc8f4dbe872ed9308bc46
+      internalID: -1553720031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_65
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 720
+        width: 129
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720872e1222c77440ad24d1581b08c05
+      internalID: 1004581881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba55d4433ac2df42b41b59d52ede6cd
+      internalID: -239973515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_67
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 720
+        width: 130
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d1b7e1bd0ae514fa9c659ac70c9803
+      internalID: 1883724174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_68
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 720
+        width: 69
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343c2b6bee9e2224a870bca0c2aba96c
+      internalID: -398115361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_69
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 720
+        width: 130
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f05ec7ccc5b1954b878f07ff8c8c6cf
+      internalID: 2132693961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_70
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 720
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bede48b0399bf4e933a6baec89d410
+      internalID: -2047497848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_71
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 720
+        width: 130
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d873070a52c85f469d5eb154f689859
+      internalID: 332196189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_72
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 529
+        width: 69
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ca5cd789d29374890ba94fdaa121c7
+      internalID: -1404100538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_73
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 529
+        width: 129
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83156f05e6333c4488ae3ce0e15787c9
+      internalID: 1323368224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 529
+        width: 100
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d220fe1ced432b419cd1de10a0e9320
+      internalID: -1499901007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_75
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 529
+        width: 130
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a42dd302e419a488e323aed4ccd98f
+      internalID: -1964299804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_76
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 529
+        width: 69
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c430a7cb90b057345a8b4646f51e2ca4
+      internalID: 235405883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_77
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 529
+        width: 130
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65abf46c621c03345a69e6f216a8c9cd
+      internalID: -212881032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_78
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 529
+        width: 100
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f970c7417e2726498b78de76802bf9e
+      internalID: -779384361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_79
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 529
+        width: 130
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b9dd4702c79d648bf88db2bc36985a
+      internalID: -1026055377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 336
+        width: 69
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2e449844a289242a7458d6ca131f6d
+      internalID: 581320806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_81
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 336
+        width: 129
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d586a8eb8bb25a4395994e1b9222ba0
+      internalID: -905901763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_82
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15702698f18872b4faabd89745e95394
+      internalID: 1747306341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_83
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 336
+        width: 130
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0e29ccf49856749a55807a98ba9bc4
+      internalID: 1155799303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_84
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 336
+        width: 69
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfcfa14b1dd11c4f8b24774e2560845
+      internalID: -430918225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_85
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 336
+        width: 130
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ecff5951e6bb645960368bdf62272f
+      internalID: -1283007835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_86
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 336
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89eb5cd4e0414d498b3d516a7fddd5d
+      internalID: -1161968579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maison set 2_87
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 336
+        width: 130
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183a0817948f8de498857130af5145f2
+      internalID: 85348771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      maison set 2_46: 1346834535
+      maison set 2_11: -2025480361
+      maison set 2_43: 669160346
+      maison set 2_68: -398115361
+      maison set 2_34: -743818856
+      maison set 2_83: 1155799303
+      maison set 2_73: 1323368224
+      maison set 2_57: 331837894
+      maison set 2_86: -1161968579
+      maison set 2_49: 443999368
+      maison set 2_6: 1802852055
+      maison set 2_25: 1134532765
+      maison set 2_53: -1604684425
+      maison set 2_74: -1499901007
+      maison set 2_48: 839918143
+      maison set 2_20: 709274895
+      maison set 2_81: -905901763
+      maison set 2_14: 2061394388
+      maison set 2_33: -293336068
+      maison set 2_18: -1109489548
+      maison set 2_69: 2132693961
+      maison set 2_75: -1964299804
+      maison set 2_4: 239533219
+      maison set 2_32: -2071389972
+      maison set 2_63: -698973508
+      maison set 2_55: -637886762
+      maison set 2_41: -647405829
+      maison set 2_58: -1018724208
+      maison set 2_35: 389395161
+      maison set 2_39: 380580926
+      maison set 2_24: -1619039052
+      maison set 2_64: -1553720031
+      maison set 2_54: 1144980974
+      maison set 2_71: 332196189
+      maison set 2_13: 1214302581
+      maison set 2_19: 1544236917
+      maison set 2_70: -2047497848
+      maison set 2_65: 1004581881
+      maison set 2_7: 688042949
+      maison set 2_15: 1537272170
+      maison set 2_0: 394436197
+      maison set 2_27: 431339449
+      maison set 2_30: 1603898112
+      maison set 2_56: -520620649
+      maison set 2_5: 913942384
+      maison set 2_9: 1073233065
+      maison set 2_85: -1283007835
+      maison set 2_66: -239973515
+      maison set 2_31: 1758922907
+      maison set 2_77: -212881032
+      maison set 2_76: 235405883
+      maison set 2_80: 581320806
+      maison set 2_26: 258860713
+      maison set 2_47: -781847571
+      maison set 2_8: -1679756961
+      maison set 2_3: -382176877
+      maison set 2_21: -1974676467
+      maison set 2_17: 1341341160
+      maison set 2_51: 1910246005
+      maison set 2_44: -931769300
+      maison set 2_84: -430918225
+      maison set 2_28: -1599137016
+      maison set 2_10: 1476793596
+      maison set 2_29: 1986855704
+      maison set 2_2: 382962252
+      maison set 2_61: -1800457005
+      maison set 2_45: 567842521
+      maison set 2_22: 1698899114
+      maison set 2_40: -727143467
+      maison set 2_37: -645267727
+      maison set 2_36: 1699530086
+      maison set 2_59: -1115718425
+      maison set 2_62: -1895384073
+      maison set 2_79: -1026055377
+      maison set 2_82: 1747306341
+      maison set 2_78: -779384361
+      maison set 2_60: -1294334641
+      maison set 2_52: -692735189
+      maison set 2_42: -1342069041
+      maison set 2_12: 257234659
+      maison set 2_23: -1899748288
+      maison set 2_16: -1271018766
+      maison set 2_38: 1371471654
+      maison set 2_67: 1883724174
+      maison set 2_87: 85348771
+      maison set 2_1: 840870645
+      maison set 2_72: -1404100538
+      maison set 2_50: 1596034118
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
